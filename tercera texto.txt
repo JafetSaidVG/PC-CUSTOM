@@ -1,0 +1,115 @@
+<HTML>
+<HEAD>
+<TITLE> PC CUSTOM </TITLE>
+<link rel="shortcut icon" href="logo.jpg"/>
+</HEAD>
+<body background="fondo22.jpg">
+<BR>
+<BR>
+<center>
+<HR>
+<table background="fondotabla1.jpg">
+<TR>
+<td width=270 HEIGHT=160 align=center><IMG SRC="logo.jpg" WIDTH=170 HEIGHT=150/></TD>
+<td width=270 HEIGHT=160 align=center><A href=index.html><IMG SRC="volver.png" WIDTH=230 HEIGHT=180/></A></TD>
+<td width=270 HEIGHT=160 align=center><A href=segunda.html><IMG SRC="componentesinternos.png" WIDTH=230 HEIGHT=180/></A></TD>
+</TR>
+</table>
+<HR>
+<IMG SRC="central3.png" WIDTH=750 HEIGHT=400/>
+<BR>
+<IMG SRC="center1212.png" WIDTH=770 HEIGHT=620/>
+<table>
+<TR>
+<td width=1100 HEIGHT=150 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+El ratón original estaba constituido por una bola que podía girar libremente y se accionaba haciéndola rodar sobre una superficie plana. Los actuales han sustituido la bola por un sistema óptico de diodo o láser de infrarrojo. Al activar el ratón se asocia su posición con la del cursor en la pantalla, haciendo que éste siga los movimientos del ratón cuando se desplaza sobre una superficie.
+<BR>
+El concepto del ratón ha sido ampliado con la introducción de otros dispositivos análogos como el trackball que consiste en una bola fija que se hace girar con los dedos, el touchpad, que utiliza un panel sensible a las presiones suaves de los dedos o el pointing stick, un pequeño cilindro vertical. Todos ellos se utilizan en teclados de ordenadores portátiles y usan interfaces de conexión análogas a las de los teclados.
+</FONT>
+</TD>
+</TR>
+</table>
+<BR>
+<BR>
+<IMG SRC="teclado1212.png" WIDTH=790 HEIGHT=620/>
+<table>
+<TR>
+<td width=1100 HEIGHT=150 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+Se trata de un dispositivo análogo al de una máquina de escribir, en el cual cada tecla corresponde a uno o varios caracteres, funciones u órdenes. Para seleccionar uno de los caracteres de una tecla puede ser necesario pulsar simultáneamente dos o más teclas. Entre las características técnicas de un teclado destacan el número de caracteres y símbolos básicos, la sensibilidad a la pulsación, el tipo de contactos de las teclas (membrana o mecánico), peso, tamaño, transportabilidad, ergonomía, funcionalidades extras como lector de banda magnética, lector y grabador de tarjeta inteligente, etc).
+<BR>
+La interfaz entre el teclado y el ordenador puede ser por cable o inalámbrica mediante señales de infrarrojo o de radiofrecuencias. Para nosotros junto al ratón uno de los periféricos más importantes.
+</FONT>
+</TD>
+</TR>
+</table>
+<BR>
+<BR>
+<IMG SRC="monitor.png" WIDTH=790 HEIGHT=620/>
+<table>
+<TR>
+<td width=1100 HEIGHT=150 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+Una pantalla es una superficie blanca, plana y lisa, de materia textil o plástico, sobre la que se proyectan imágenes cinematográficas o fotográficas. Se utilizan diversas tecnologías y características entre las que destacan las siguientes:
+<BR><BR>
+Tubo de rayos catódicos (TRC).<BR><BR>
+Cristal líquido (LCD: Liquid Crystal Display).<BR><BR>
+Plasma.<BR><BR>
+OLED.<BR><BR>
+Todos ellos tienen en común el que la imagen no es continua, sino que se forma por multitud de puntos de imagen llamados píxeles. Estos píxeles se agrupan formando una matriz regular de puntos de imagen. La resolución de una pantalla es el número de puntos de imagen que tiene una pantalla, es un valor independiente del tamaño de esta. Otro de los periféricos claves a la hora de elegir un buen ordenador.
+</FONT>
+</TD>
+</TR>
+</table>
+<BR>
+<BR>
+<IMG SRC="impresora.png" WIDTH=790 HEIGHT=620/>
+<table>
+<TR>
+<td width=1100 HEIGHT=150 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+Las pantallas muestran los resultados de forma temporal, por lo que necesitamos disponer de un sistema de impresión si queremos tener una copia permanente de los datos. Las impresoras pueden clasificarse en función de algunas de sus características :
+<BR>
+Según la calidad de impresión:
+<BR><BR>
+<STRONG>Normales:</STRONG> impresoras de línea, de rueda y térmicas.<BR><BR>
+<STRONG>Calidad media:</STRONG> algunas impresoras matriciales.<BR><BR>
+<STRONG>Calidad alta:</STRONG> las de margarita, tinta y láser.<BR><BR><BR>
+Según el sistema de impresión:<BR><BR>
+<BR>
+<STRONG>Impresoras de impacto.</STRONG> Muy utilizadas tradicionalmente, pero son ruidosas por lo que ya están en desuso. Entre ellas se encuentran las impresoras de rueda, bola, margarita, matriciales, cilindro y cadena.<BR><BR>
+<STRONG>Impresoras sin impacto.</STRONG> forman los caracteres sin necesidad de golpes y utilizan otros principios físicos para transferir las imágenes al papel. Son las utilizadas en la actualidad, entre ellas destacan las de inyección de tinta, las electroestáticas, las LED y las láser.
+<STRONG>Impresoras de inyección de tinta.</STRONG> Son impresoras de caracteres y su problema es la relativa lentitud.<BR><BR>
+<STRONG>Impresoras electrostáticas.</STRONG> Son impresoras de línea muy rápidas.<BR><BR>
+<STRONG>Impresoras láser.</STRONG> Son muy utilizadas por su elevada velocidad, calidad de impresión, relativo bajo precio y poder utilizar papel normal.<BR><BR>
+<STRONG>Impresoras LED.</STRONG> Son análogas a las laser, con la única diferencia que la imagen se genera desde una hilera de diodos, en vez de un láser.<BR><BR><BR>
+Todas las impresoras se caracterizan por una serie de parámetros, los más importantes son los siguientes:<BR><BR>
+- Velocidad de escritura.<BR>
+- Caracteres por línea.<BR>
+- Ancho del papel o longitud del carro en pulgadas.<BR>
+- Densidad de líneas por pulgada y espacio entre ellas.<BR>
+- Tipos de letra que puede usar la impresora.<BR>
+- Color o escala de grises.<BR>
+- Resolución.<BR><BR>
+Las impresoras son de los periféricos más utilizados a nivel de oficina y doméstico.
+</FONT>
+</TD>
+</TR>
+</table>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<HR>
+<A href=index.html><IMG SRC="volver.png" WIDTH=250 HEIGHT=190/></A>
+</center>
+</body>
+
+</HTML>
+

@@ -1,0 +1,343 @@
+<HTML>
+<HEAD>
+<TITLE> PC CUSTOM </TITLE>
+<link rel="shortcut icon" href="logo.jpg"/>
+</HEAD>
+<body background="fondo22.jpg">
+<BR>
+<BR>
+<center>
+<HR>
+<table background="fondotabla1.jpg">
+<TR>
+<td width=270 HEIGHT=160 align=center><IMG SRC="logo.jpg" WIDTH=170 HEIGHT=150/></TD>
+<td width=270 HEIGHT=160 align=center><A href=index.html><IMG SRC="volver.png" WIDTH=230 HEIGHT=180/></A></TD>
+<td width=270 HEIGHT=160 align=center><A href=tercera.html><IMG SRC="perifericosyaccesorios.png" WIDTH=230 HEIGHT=180/></A></TD>
+</TR>
+</table>
+<HR>
+<IMG SRC="imagencentral2.png" WIDTH=900 HEIGHT=400/>
+<table>
+<TR>
+<td width=1100 HEIGHT=150 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+Nos hemos propuesto crear este articulo como guía para aprender cuales son todos los componentes de un ordenador totalmente explicados. Así todo aquel que no sepa exactamente en qué consiste un ordenador o qué partes podemos encontrar en su interior, a partir de ahora no va a tener excusas.<BR>
+Con esta guía, pretendemos que los que menos saben de ordenadores se lleven una idea bastante completa de qué componentes hay y las últimas tendencias a día de hoy, para así saber cómo comenzar a montar su propio PC.
+</FONT>
+</TD>
+</TR>
+</table>
+<BR>
+<IMG SRC="cpu1.png" WIDTH=770 HEIGHT=620/>
+<table>
+<TR>
+<td width=1100 HEIGHT=220 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+El microprocesador es el cerebro del ordenador, el que se encarga de analizar absolutamente toda la información que pasa por él en forma de unos y ceros. El procesador decodifica y ejecuta las instrucciones de los programas cargados en la memoria principal del ordenador y coordina y controla todos o casi todos los componentes, así como los periféricos conectados. La velocidad con la que procesa estas instrucciones una CPU se mide en ciclos por segundo o hertzios (Hz).<BR>
+La CPU no es más que un endemoniadamente complejo chip de silicio en el que hay millones de transistores y circuitos integrados instalados en él junto a una serie de pines o contactos que irán conectados al socket de la placa base.<BR>
+Además, las nuevas CPU del mercado no solamente tienen uno de estos chips físicamente hablando, sino que cuentan con varias unidades en su interior llamadas Núcleos o Cores. Cada uno de estos núcleos será capaz de procesador una instrucción a la vez, pudiendo así procesar tantas instrucciones simultáneas como núcleos tenga un procesador.<BR>
+</FONT>
+<BR>
+<BR>
+<FONT SIZE=7 COLOR=white FACE=calibri>
+<STRONG>¿Qué se mide en un procesador para saber si es bueno?</STRONG>
+</FONT>
+<BR>
+<BR>
+<FONT SIZE=5 COLOR=white FACE=arial>
+<ul>
+<li><STRONG>Frecuencia:</STRONG> actualmente se mide en Gigahercios (GHz). Un microprocesador tiene un reloj en su interior que marca cantidad de operaciones que será capaz de hacer. Mientras más frecuencia, mayor cantidad de ellas.</li>
+<li><STRONG>Ancho de bus:</STRONG> de forma simple, marca la capacidad de trabajo que tiene un procesador. Mientras más ancho sea este bus, más grandes serán las operaciones que podrá hacer. Los procesadores actuales son de 64 bits, es decir, pueden hacer operaciones con cadenas de 64 unos y ceros consecutivos.</li>
+<li><STRONG>Memoria Caché:</STRONG> mientras más memoria cache tenga el procesador, más cantidad de instrucciones podremos guardar en ellas para cogerlas rápidamente. La memoria caché e una memoria mucho más rápida que la memoria RAM y sirve para almacenar las instrucciones que van a ser inmediatamente utilizadas.</li>
+<li><STRONG>Núcleos e hilos de procesamiento:</STRONG> Y mientras más núcleos e hilos de procesamiento, más operaciones podremos hacer de forma simultánea.</li>
+</ul>
+</FONT>
+</TD>
+</TR>
+</table>
+<BR>
+<BR>
+<IMG SRC="vs.jpg" WIDTH=720 HEIGHT=350/>
+<BR>
+<BR>
+<table>
+<TR>
+<td width=1100 HEIGHT=220 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+<BR>
+La arquitectura de un microprocesador la forma el conjunto de instrucciones con las que está fabricado un procesador, actualmente predomina la x86. Habrás visto este número en la mayoría de CPU. Además de esto, la arquitectura nos indica el proceso de fabricación y tamaño utilizados para implementar los transistores.
+<BR>
+<BR>
+<STRONG>- Intel:</STRONG>
+<BR>
+<BR>
+Intel es un fabricante de circuitos integrados y es la que inventó la serie de procesadores x86. La arquitectura actual de este fabricante es la x86 con transistores de 14 nm (nanómetros). Además, Intel nombra cada una de sus actualizaciones mediante un nombre en clave y una generación. A día de hoy estamos en la 9ª generación de procesadores con nombre Coffee Lake, predecesora de Kaby Lake y Kaby Lake R también de 14 nm. Próximamente sacará al mercado los primeros procesadores de 10 nm Cannon Lake.
+<BR>
+<BR>
+<STRONG>- AMD:</STRONG>
+<BR>
+<BR>
+El otro fabricante de procesadores rival directo de Intel es AMD. También utiliza la arquitectura x86 para sus procesadores y al igual que Intel también nombra sus procesadores con un nombre en clave. AMD se encuentra actualmente con procesadores de 12 nm con nombre de arquitectura Zen+ y Zen2 y modelos Ryzen. En un corto período de tiempo tendremos la nueva arquitectura Zen3 de 7 nm.
+</FONT>
+</TD>
+</TR>
+</table>
+<BR>
+<BR>
+<IMG SRC="placa1.png" WIDTH=770 HEIGHT=620/>
+<table>
+<TR>
+<td width=1100 HEIGHT=150 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+A pesar de que la CPU es el corazón de nuestro ordenador, éste no podría funcionar si no existiera la placa base. Una placa base es básicamente una placa PCB constituida por un circuito integrado que interconecta una serie de chips, condensadores y conectores repartidos por toda ella, que en su conjunto forma el ordenador.<BR>
+En esta placa conectaremos el procesador, la memoria RAM la tarjeta gráfica y prácticamente todos los elementos internos de nuestro ordenador. Explicar una placa base en detalle es tremendamente complejo debido a la enorme cantidad de elementos importantes que tiene.<BR>
+No todas las pacas base son compatibles con todos los procesadores, es más, cada fabricante de procesador necesitará su propia placa base para que éste elemento pueda funcionar. Para ello, cada placa tendrá un socket o zócalo distinto, y en él solamente se podrán instalar determinados procesadores según su arquitectura y generación.<BR>
+En la placa base también hay un elemento llamado chipset, que es básicamente un conjunto de circuitos integrados que hacen las funciones de puente para comunicar los dispositivos de entrada y salida con el procesador. En las placas antiguas, había dos tipos de chipsets, el puente norte encargado de conectar la CPU con la memoria y las ranuras PCI, y el puente sur encargado de conectar la CPU con los dispositivos de E/S. Ahora solamente tenemos puente sur, ya que el puente norte lo incluyen los procesadores actuales en su interior.<BR>
+</FONT>
+</TD>
+</TR>
+</table>
+<FONT SIZE=7 COLOR=white FACE=calibri>
+Formatos de placas base.
+</FONT>
+<BR>
+<BR>
+<table>
+<TR>
+<td width=1100 HEIGHT=150 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+<STRONG>XL-ATXy E-ATX:</STRONG> estos son formatos especiales e implican la adquisición de una torre de gran tamaño con 10 o más slots de expansión. Son ideales para el montaje de refrigeración líquidas completas, varias tarjetas gráficas y muchas unidades de almacenamiento.<BR>
+<BR>
+<STRONG>ATX:</STRONG> Normalmente sus medidas son 30,5 cm x 24,4 cmy es compatible con el 99% de cajas de PC del mercado. Es nuestro formato recomendado en todas nuestras configuraciones Gamer o para equipos Workstation.<BR>
+<BR>
+<STRONG>Micro-ATX:</STRONG> Tiene un tamaño más reducido, muy al uso, pero con la llegada de placas bases más pequeñas se ha quedado un poco desbancada. Ideal para equipos de salón.<BR>
+<BR>
+<STRONG>ITX:</STRONG> Su llegada ha revolucionado el mundo de las placas bases y equipos gaming con dimensiones realmente pequeñas y capaz de mover resoluciones 2560 x 1440p (2K) sin despeinarse e incluso la gran demandada 3840 x 2160p (4K) con cierta soltura.<BR>
+</FONT>
+</TD>
+</TR>
+</table>
+<BR>
+<BR>
+<IMG SRC="ram11.png" WIDTH=770 HEIGHT=620/>
+<table>
+<TR>
+<td width=1100 HEIGHT=150 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+La memoria RAM (Random Access Memory) es un componente interno que se instala en la placa base y sirve para cargar y almacenar todas las instrucciones que se ejecutan en el procesador. Estas instrucciones son enviadas desde todos los dispositivos conectados a la placa base y a los puertos de nuestro equipo.
+<BR>
+La memoria RAM tiene comunicación directa con el procesador para que la trasferencia de datos sea más rápida, aunque estos datos serán almacenados por la memoria cache antes de llegar al procesador. Se llama de acceso aleatorio porque la información se almacena de forma dinámica en las celdas que hay libres, sin orden aparente. Además, esta información no se queda grabada de forma permanente como en un disco duro, sino que se pierde cada vez que apagamos nuestro ordenador.
+<BR>
+De la memoria RAM debemos de conocer básicamente cuatro características, la cantidad de memoria en GB que tenemos y que debemos de instalar, el tipo de memoria RAM, su velocidad, y el tipo de ranura que utilizan en función de cada equipo.
+<BR>
+Otro aspecto muy importante a tener en cuenta de la memoria RAM es su capacidad para trabajar en Dual Channel o Quad Channel.
+<BR>
+Esta tecnología consiste básicamente en que el procesador será capaz de acceder de forma simultánea a dos o cuatro memorias RAM. Cuando Dual Channel está activo, en lugar de acceder a bloques de 64 bits de información podremos accederemos a bloques de hasta 128 bits, y de igual forma a bloques de 256 bits en Quad Channel.
+<BR>
+</FONT>
+</TD>
+</TR>
+</table>
+<BR>
+<BR>
+<IMG SRC="d1.png" WIDTH=770 HEIGHT=620/>
+<table>
+<TR>
+<td width=1100 HEIGHT=150 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+Pasamos ahora a ver los discos duros y la utilidad que tienen para nuestro equipo. Como los anteriores, es un dispositivo que se instala de forma interna en nuestro equipo, aunque también existen de forma externa, y conectados mediante USB en la mayoría de casos.
+<BR>
+El disco duro será el componente encargado de almacenar de forma permanente todos los datos que nos descarguemos de Internet, documentos y carpetas de hayamos creado, imágenes, música, etc. Y lo más importante de todo, es el elemento que lleva instalado el sistema operativo con el que podemos hacer funcionar nuestro ordenador.
+<BR>
+Existen muchos tipos de discos duros, así como tecnologías de construcción, ha habrás oído hablar de disco duros HDD o discos duros SDD, así que veamos en qué consisten.
+<BR>
+Estos discos duros son los que se han utilizado siempre en nuestros equipos. Consiste en un dispositivo metálico rectangular y de considerable peso que en su interior almacena una serie de discos o platos pegados sobre un eje común. Este eje tiene un motor para hacerlos girar a grandes velocidades y será posible leer y escribir información gracias a un cabezal magnético situado en la cara de cada plato. Precisamente por este sistema, se le llaman discos duros mecánicos, ya que cuenta con motores y elementos mecánicos en su interior.
+<BR>
+Los discos tienen dos caras útiles en las que guardar información mediante ceros y unos. Estos se dividen de forma lógica en pistas (anillo concéntrico de un disco), cilindros (conjunto de pistas alineadas de forma vertical en los distintos platos) y sectores (trozos de arco en los que se dividen las pistas).
+</FONT>
+</TD>
+</TR>
+</table>
+<BR>
+<BR>
+<IMG SRC="ssd1.png" WIDTH=770 HEIGHT=620/>
+<table>
+<TR>
+<td width=1100 HEIGHT=150 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+No es correcto llamar discos duros, ya que la tecnología de almacenamiento es muy distinta a la que usan los HDD. En este caso debemos hacer de unidades de almacenamiento en estado sólido, que son dispositivos capaces de almacenar de forma permanente información en chips de memoria flash, como los que tienen las memorias RAM. En este caso los datos se almacenan en celdas de memoria formadas por puertas lógicas NAND básicamente, ya que éstas pueden almacenar un estado de tensión sin necesidad de un suministro de corriente. Existen tres tipos de tecnologías de fabricación, SLC, MLC y TLC.
+<BR>
+Estas unidades son muchísimo más rápidas que los HDD, debido a que en su interior no hay elementos mecánicos ni motores que tarden tiempo en moverse y situar el cabezal en la pista adecuada.
+</FONT>
+</TD>
+</TR>
+</table>
+<BR>
+<BR>
+<IMG SRC="tg1.png" WIDTH=770 HEIGHT=620/>
+<table>
+<TR>
+<td width=1100 HEIGHT=150 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+Este componente no es estrictamente necesario de instalarse en nuestros ordenadores, al menos en la mayoría de casos, y ahora veremos por qué.
+<BR>
+Una tarjeta gráfica básicamente es un dispositivo que va conectado a una ranura de expansión PCI-Express 3.0 x16 que cuenta con un procesador gráfico o GPU que se encarga de realizar todo el complejo procesamiento de gráficos de nuestro ordenador.
+<BR>
+Decimos que no son estrictamente necesarias porque la mayoría de procesadores actuales cuentan con un circuito en su interior que es capaz de encargarse de hacer el procesamiento de estos datos gráficos, y es por esto que las placas bases tienen puertos HDMI o DisplayPort para conectar nuestra pantalla a ellas.  A estos procesadores de se denominan APU (Unidad de procesamiento Acelerado)
+<BR>
+¿Para qué queremos entonces una tarjeta gráfica? Sencillo, porque el procesador gráfico de una tarjeta es muchísimo más potente que el que tienen los procesadores. Si queremos jugar a juegos, necesitaremos casi obligatorio una tarjeta gráfica en nuestro equipo.
+</FONT>
+</TD>
+</TR>
+</table>
+<BR>
+<BR>
+<IMG SRC="ccc.jpg" WIDTH=670 HEIGHT=390/>
+<BR>
+<BR>
+<table>
+<TR>
+<td width=1100 HEIGHT=150 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+<STRONG>Nvidia</STRONG>
+<BR>
+<BR>
+Nvidia tiene las mejores tarjetas gráficas a día de hoy, ciertamente no son las más baratas, pero sí tiene los modelos de mayor rendimiento en el mercado. Existen básicamente dos tecnologías de fabricación de tarjetas gráficas Nvidia:
+<BR>
+<BR>
+<STRONG>Tecnología Turing:</STRONG> es la tecnología más actual con GPU de 12 nm y memorias de vídeo GDDR6 capaces de adquirir velocidades de trasferencia de hasta 14 Gbps. Estas tarjetas son capaces de realizar trazado de rayos en tiempo real. En el mercado podrás identificar estas tarjetas por el modelo GeForce RTX 20x.
+<BR>
+<BR>
+<STRONG>Tecnología Pascal:</STRONG> es anterior a la Turing, y son tarjetas que utilizan proceso de fabricación de 12 nm y memorias GDDR5. Las podremos identifica por su denominación GeForce GTX 10x.
+<BR>
+<BR>
+<BR>
+<STRONG>AMD</STRONG>
+<BR>
+<BR>
+Es el mismo fabricante de procesadores el cual también se dedica a construir tarjetas gráficas. Sus modelos TOP no tienen la apabullante potencia de las Nvidia tope gama, pero también tiene modelos muy interesantes para la mayoría de jugadores. También cuenta con varias tecnologías:
+<BR>
+<BR>
+<STRONG>Radeon VII:</STRONG> es la tecnología más novedosa de la marca, y la llega la recién estrenada tarjeta AMD Radeon VII con un proceso de fabricación de 7 nm y memoria HBM2.
+<BR>
+<BR>
+<STRONG>Radeon Vega:</STRONG> es la tecnología vigente y que actualmente está en el mercado con dos modelos, Vega 56 y Vega 64. El proceso de fabricación es de 14 nm y utilizando memorias HBM2.
+<BR>
+<BR>
+<STRONG>Polaris RX:</STRONG> Es la anterior generación de tarjetas gráficas, relegada a modelos de gama media y baja, aunque con muy buenos precios. Identificaremos estos modelos por el distinto Radeon RX.
+</FONT>
+</TD>
+</TR>
+</table>
+<BR>
+<BR>
+<IMG SRC="fuente1.png" WIDTH=770 HEIGHT=620/>
+<BR>
+<BR>
+<table>
+<TR>
+<td width=1100 HEIGHT=150 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+Otro de los componentes de un ordenador que son necesarios para el funcionamiento de este es la fuente de alimentación. Como su propio nombre indica, es un dispositivo que proporciona corriente eléctrica a los elementos electrónicos que constituyen nuestro ordenador, y que son básicamente los que ya hemos visto en anteriores apartados.
+<BR>
+Estas fuentes se encargan de transformar la corriente alterna de nuestra casa de 240 Voltios (V) en corriente continua y distribuirla entre todos los componentes que la necesiten mediante conectores y cables. Normalmente las tensiones que se manejan son de 12 V y 5 V.
+<BR>
+La medida más importante de una fuente de alimentación o PSU es la potencia, mientras más potencia, mayor capacidad de conectar elementos tendrá esta fuente. Lo normal es que una fuente de un ordenador de escritorio con tarjeta gráfica sea de al menos 500 W, ya que según qué procesador y placa base tengamos, podrán consumir unos 200 o 300 W. Así mismo una tarjeta gráfica, dependiendo de cuál sea, consumirá entre 150 y 400 W.
+</FONT>
+</TD>
+</TR>
+</table>
+<BR>
+<BR>
+<IMG SRC="liq1.png" WIDTH=770 HEIGHT=620/>
+<BR>
+<BR>
+<table>
+<TR>
+<td width=1100 HEIGHT=150 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+Debemos citar como componentes de un ordenador los disipadores, no son elementos estrictamente necesarios para que un ordenador funcione, pero su ausencia puede provocar que un ordenador deje de funcionar y se rompa.
+<BR>
+La misión de un disipador es bien sencilla, recoger el calor que genera un elemento electrónico como un procesador debido a su alta frecuencia y transmitirlo al ambiente. Para hacer esto un disipador consta de:
+<BR>
+<BR>
+Un bloque metálico, normalmente cobre que está en contacto directo con el procesador a través de una pasta térmica que ayuda al traspaso de calor.
+<BR>
+<BR>
+Un bloque de aluminio o intercambiador formado por un gran número de aletas por las que pasará aire para que el calor de ellas sea transmitido a éste.
+<BR>
+<BR>
+Unos tubos de calor de cobre o Heatpipes que irán desde el bloque de cobre hasta todo el bloque aleteado para que el calor se transmita a toda esta superficie de la mejor forma.
+<BR>
+<BR>
+Uno o varios ventiladores para que el flujo de aire en las aletas sea forzado y así elimine mayor cantidad de calor.
+<BR>
+<BR>
+También existen disipadores en otros elementos como el chipset, fases de alimentación y por supuesto en la tarjeta gráfica. Pero existe una variante de mayor rendimiento llamada refrigeración líquida.
+<BR>
+La refrigeración líquida consiste en separar los elementos de disipación en dos grandes bloques que componen un circuito de agua.
+<BR>
+El primero de ellos se situará en el propio procesador, será un bloque de cobre repleto de pequeños canales por los que circulará un líquido accionado por una bomba.
+<BR>
+<BR>
+El segundo será un intercambiador aleteado con ventiladores que se encargará de recoger el calor del agua que a él llega y trasmitirla al aire.
+<BR>
+<BR>
+Para ello se deberá utilizar una serie de tubos que compongan un circuito en el que el agua circule y nunca se evapore.
+</FONT>
+</TD>
+</TR>
+</table>
+<BR>
+<BR>
+<IMG SRC="gabinete1.png" WIDTH=770 HEIGHT=620/>
+<BR>
+<BR>
+<table>
+<TR>
+<td width=1100 HEIGHT=150 align=center>
+<p align="justify">
+<FONT SIZE=5 COLOR=white FACE=arial>
+El chasis o gabinete, es un recinto construido de metal, plástico y cristal que se encargará de almacenar todo este ecosistema de componente electrónicos y así tenerlos ordenados, correctamente conectados y refrigerados. De un chasis debemos de conocer siempre qué formato de placas bases soporta para instalarlas, y sus dimensiones para ver si todos nuestros componentes caben en él. De esto forma tendremos:
+<BR>
+<BR>
+<STRONG>Chasis ATX o Semitorre:</STRONG> consiste en una caja de aproximadamente 450 mm de largo, otros 450 mm de alto y 210 mm de ancho. Se denomina ATX porque podremos instalar en ella placas base en formato ATX y también más pequeñas. Son las más utilizadas.
+<BR>
+<BR>
+<STRONG>Chasis E-ATX o de torre completa:</STRONG> Son las más grandes y son capaces de albergar en su interior prácticamente cualquier componente y placa base, incluso las más grandes.
+<BR>
+<BR>
+<STRONG>Caja Micro-ATX, Mini-ITX o mini torre:</STRONG> son de un tamaño menor, y están diseñadas para poder instalar las placas base de estos tipos de formatos.
+<BR>
+<BR>
+<STRONG>Caja SFF:</STRONG> estas son las típicas que encontramos en los ordenadores de las universidades, son torres muy delgadas y que se colocan en armarios o tendidas en una mesa.
+<BR>
+<BR>
+La torre será el elemento más visible de nuestro ordenador, así que los fabricantes se esfuerzan siempre en hacerlas lo más impresionantes y bizarras posible para que el resultado sea espectacular.
+</FONT>
+</TD>
+</TR>
+</table>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<HR>
+<A href=index.html><IMG SRC="volver.png" WIDTH=250 HEIGHT=190/></A>
+</center>
+</body>
+
+</HTML>
